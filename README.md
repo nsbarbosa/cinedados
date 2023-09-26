@@ -18,12 +18,12 @@ Siga as etapas abaixo para configurar e executar o projeto localmente:
    ```bash
    git clone https://github.com/seu-usuario/cinedados.git
 
-   Substitua seu-usuario pelo seu nome de usuário no GitHub.
+Substitua seu-usuario pelo seu nome de usuário no GitHub.
 
 2. Navegue até o diretório do projeto::
 
    ```bash
-   cd logcomex
+   cd cinedados
 
 3. Instale as dependências:
     ```bash
